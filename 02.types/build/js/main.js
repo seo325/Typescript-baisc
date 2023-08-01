@@ -1,0 +1,11 @@
+"use strict";
+let booleans;
+let falsebooleans = false;
+let number;
+let integer = 6;
+let string;
+let first = "mark";
+let tuple2;
+tuple2 = ['a', 1];
+tuple2.push(2);
+console.log(tuple2);
